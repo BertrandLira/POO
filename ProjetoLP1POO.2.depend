@@ -1,0 +1,85 @@
+# depslib dependency file v1.0
+1623805462 source:c:\data01\projetolp1poo.2\main.cpp
+	<iostream>
+	"Vacina.h"
+	"Medicamento.h"
+	"EPI.h"
+	"Controler.h"
+	"Menu.h"
+	<vector>
+	<fstream>
+	"Persistencia.h"
+	<locale.h>
+
+1623765945 source:c:\data01\projetolp1poo.2\src\insumo.cpp
+	"Insumo.h"
+
+1623766143 c:\data01\projetolp1poo.2\include\insumo.h
+	<string>
+	<iostream>
+	<fstream>
+
+1623777568 source:c:\data01\projetolp1poo.2\src\medicamento.cpp
+	"Medicamento.h"
+
+1623777521 c:\data01\projetolp1poo.2\include\medicamento.h
+	"Insumo.h"
+	<string>
+	<fstream>
+
+1623777568 source:c:\data01\projetolp1poo.2\src\vacina.cpp
+	"Vacina.h"
+
+1623777568 c:\data01\projetolp1poo.2\include\vacina.h
+	"Insumo.h"
+	<string>
+	<fstream>
+
+1623777568 source:c:\data01\projetolp1poo.2\src\epi.cpp
+	"EPI.h"
+
+1623777568 c:\data01\projetolp1poo.2\include\epi.h
+	"Insumo.h"
+	<string>
+	<fstream>
+
+1623709867 source:c:\data01\projetolp1poo.2\src\local.cpp
+	"Local.h"
+
+1623767685 c:\data01\projetolp1poo.2\include\local.h
+	<string>
+	<vector>
+	"Insumo.h"
+	"EPI.h"
+	"Vacina.h"
+	"Medicamento.h"
+	"Menu.h"
+
+1623803553 source:c:\data01\projetolp1poo.2\src\controler.cpp
+	"Controler.h"
+
+1623682530 c:\data01\projetolp1poo.2\include\controler.h
+	"Local.h"
+	"Insumo.h"
+	"Persistencia.h"
+
+1623799902 source:c:\data01\projetolp1poo.2\src\menu.cpp
+	"Menu.h"
+
+1623705667 c:\data01\projetolp1poo.2\include\menu.h
+	<stdio.h>
+	<iostream>
+	<string>
+
+1623791300 c:\data01\projetolp1poo.2\include\persistencia.h
+	<vector>
+	"Insumo.h"
+
+1623799533 source:c:\data01\projetolp1poo.2\src\persistencia.cpp
+	"Persistencia.h"
+	<fstream>
+	"Insumo.h"
+	"Vacina.h"
+	"EPI.h"
+	"Medicamento.h"
+
